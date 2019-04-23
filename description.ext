@@ -1,0 +1,14 @@
+enableDebugConsole = 1;
+respawn = 3;
+respawndelay = 15;
+respawnTemplates[] = {"MenuPosition"};
+aiKills = 0;
+disabledAI = 1;
+respawnDialog = 0;
+respawnOnStart = -1;
+author = "HeroesandvillainsOS";
+OnLoadName = "Battle of Lythium";
+OnLoadMission = "U.S. and Afghan Special Forces take a combat role clearing Taliban cells along a trade route, known as Lythium, between the provinces of Badghis and Bala Murghad Afghanistan.";
+loadScreen = "afghanistan.jpg";
+
+#include "R3F_LOG\desc_include.h"
