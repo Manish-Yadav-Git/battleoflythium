@@ -1,0 +1,1 @@
+[[(_this select 0), ["<t color='#ff0066'>HEAL</t>","scripts\heal.sqf"]],"addAction",true,true] call BIS_fnc_MP;
