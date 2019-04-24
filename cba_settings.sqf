@@ -667,8 +667,6 @@ force force grad_trenches_functions_vehicleEnvelopeDigTime = 30;
 force force niarms_magSwitch = true;
 
 // STUI Settings
-force force STHud_Settings_ColourBlindMode = "Normal";
-force force STHud_Settings_Font = "PuristaSemibold";
 force force STHud_Settings_HUDMode = 3;
 force force STHud_Settings_Occlusion = true;
 force force STHud_Settings_RemoveDeadViaProximity = true;
